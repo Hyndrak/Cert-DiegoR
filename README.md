@@ -153,5 +153,3 @@ Estas tres normas son determinantes para el éxito en un entorno industrial:
 - [ANSI/TIA-568](https://tiaonline.org/standards/tia-568/)
 
 ---
-
-*Apuntes generados a partir de la sesión de clase. Para uso académico y de referencia.*
