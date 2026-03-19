@@ -1,11 +1,11 @@
-# 📡 Apuntes: Cableado Estructurado
+# Apuntes: Cableado Estructurado
 
 > **Sesión:** Estándares, Normativas y Clasificación de Rendimiento en Redes  
 > **Área:** Telecomunicaciones / Infraestructura de Red
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 apuntes/
@@ -15,7 +15,7 @@ apuntes/
 
 ---
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 
 1. [Estándares y Normativas Internacionales](#i-estándares-y-normativas-internacionales)
 2. [El Estándar Maestro: TIA/EIA-568](#ii-el-estándar-maestro-tiaeia-568)
@@ -79,7 +79,7 @@ Define las dos configuraciones de conexión para conectores **RJ45**:
 | 7   | Blanco/Marrón  |
 | 8   | Marrón         |
 
-> 💡 **Diferencia clave:** En T568A los pares de Verde y Naranja están invertidos respecto a T568B. La T568B es la más utilizada en instalaciones de Norteamérica.  
+> **Diferencia clave:** En T568A los pares de Verde y Naranja están invertidos respecto a T568B. La T568B es la más utilizada en instalaciones de Norteamérica.  
 > Un cable que usa T568A en un extremo y T568B en el otro se denomina **cable cruzado (crossover)**.
 
 ---
@@ -94,7 +94,7 @@ Tabla comparativa de **Categorías TIA** vs. **Clases ISO/IEC**:
 | 10 Gbps     | Cat 6A          | Clase EA        | 500 MHz         |
 | 40 Gbps     | Cat 8           | Clase I/II      | 2000 MHz        |
 
-> 📌 A mayor categoría/clase → mayor frecuencia soportada → mayor velocidad de transmisión.
+> A mayor categoría/clase → mayor frecuencia soportada → mayor velocidad de transmisión.
 
 ---
 
